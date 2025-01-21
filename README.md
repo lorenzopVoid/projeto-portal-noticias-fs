@@ -32,4 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
+<<<<<<< HEAD
 Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+=======
+Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+>>>>>>> 9701fc0bdfece8f2a26ec6c879dc593882a6ea74
